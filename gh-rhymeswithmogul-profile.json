@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-05-12T04:13:19Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:rhymeswithmogul"
+    },
+    {
+      "Claim": "mdon:@colincogle@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "b8248d5cd61ae7f214ba057c",
+    "Timestamp": "2023-05-12T04:15:58Z",
+    "Signature": "5c5a04f24616f60323d74d4b7de927fd54e7ccc24a97a4be4b51370c92f1875e5fc92541fd22217b3fa18b37ab28c4318d8168fad7b036a96131630e0bf3eb6a61414b23554e98c82520df508f41708840ef2cee7e369e4da61b698cbba7d7afb96ca9a65929f7b792629ebf7538379d236a640e60f5943711ca68c26c67225eb148605942e14754e95857013e74fa333423366de1481d61d5d354171818b003fb84a2a66ce9effcdf4de0601978e51b2a6eba69b9b108e90ba81dec494999a4aed002c45100dd927e6bc69fd5dd0906328bfee49c82031f29774b5098baf137ea2c93b145cfbc1451240aac519ab7987772d07aec24793c559b5332b01d3b77"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "9f85b9ac457b54a59276f3728ee73ffec86216d98da9a4d612f7d5e5575ee26d",
+  "ContentToHash": "v1|gh:rhymeswithmogul,mdon:@colincogle@mastodon.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account|2023-05-12T04:13:19Z"
+}
